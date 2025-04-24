@@ -1,0 +1,87 @@
+[
+    {
+        "Item": "Marmitex Grande",
+        "Price": 20,
+        "Id": 1
+    },
+    {
+        "Item": "Marmitex Médio",
+        "Price": 18,
+        "Id": 2
+    },
+    {
+        "Item": "Refrigerante Lata",
+        "Price": 4.50,
+        "Id": 3
+    },
+    {
+        "Item":"Refrigerante Lata Zero",
+        "Price": 5,
+        "Id": 4
+    },
+    {
+        "Item":"Agua",
+        "Price": 2.50,
+        "Id": 5
+    },
+    {
+        "Item": "Agua com gas",
+        "Price": 3.00,
+        "Id":6
+    },
+    {
+        "Item": "Cerveja",
+        "Price": 3.50,
+        "Id": 7
+    },
+    {
+        "Item": "Refrigerante 600ml",
+        "Price": 6.50,
+        "Id": 8
+    },
+    {
+        "Item": "Cafe 1/2",
+        "Price": 2.50,
+        "Id": 9
+    },
+    {
+        "Item": "Cafe Cheio",
+        "Price": 3,
+        "Id": 10
+    },
+    {
+        "Item": "Coca 2L",
+        "Price": 10,
+        "Id": 11
+    },
+    {
+        "Item": "Refrigerante 2L",
+        "Price": 7,
+        "Id" : 12
+    },
+    {
+        "Item": "Chiclete Poosh",
+        "Price": 0.50,
+        "Id": 13
+    },
+    {
+        "Item": "Halls",
+        "Price": 2.50,
+        "Id": 14
+    },
+    {
+        "Item": "Trident",
+        "Price": 3,
+        "Id": 15
+    },
+    {
+        "Item": "Mentos",
+        "Price": 3,
+        "Id": 16
+    }, 
+    {
+        "Item": "Suco Del Valle",
+        "Price": 4.30,
+        "Id": 17
+    }
+]   
